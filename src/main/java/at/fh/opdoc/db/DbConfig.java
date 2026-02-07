@@ -3,7 +3,7 @@ package at.fh.opdoc.db;
 public class DbConfig {
 
     // Default: lokal (für Zuhause)
-    public static String HOST = "localhost";
+    public static String HOST = "10.25.2.145";
     public static int PORT = 3306;
     public static String DATABASE = "24nipu";
 
